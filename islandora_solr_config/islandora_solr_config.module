@@ -11,7 +11,7 @@
 function islandora_solr_config_islandora_solr_primary_display() {
   return array(
     'grid' => array(
-      'name' => t('Grid'),
+      'name' => t('Grid view'),
       'module' => 'islandora_solr_config',
       'file' => 'includes/grid_results.inc',
       'class' => "IslandoraSolrResultsGrid",
