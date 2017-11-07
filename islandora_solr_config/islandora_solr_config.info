@@ -6,5 +6,5 @@ files[] = includes/grid_results.inc
 files[] = includes/table_results.inc
 files[] = includes/rss_results.inc
 package = Islandora Search
-version = 7.x-1.10RC2
+version = 7.x-1.10
 core = 7.x
